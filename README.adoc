@@ -1,0 +1,4 @@
+= Graph-Coloring
+Aymeric MASSE aym.masse@gmail.com
+
+Graph coloring game developed during a course at UQAC.
