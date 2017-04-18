@@ -1,4 +1,16 @@
 = Graph-Coloring
 Aymeric MASSE aym.masse@gmail.com
 
-Graph coloring game developed during a course at UQAC.
+Graph coloring game developed during a course at UQAC. +
+This game uses those tools:
+
+* http://js.cytoscape.org/[Cystoscape.js]
+* https://github.com/gka/randomgraph.js/tree/master[RandomGraph]
+* https://jquery.com/[jQuery]
+* http://qtip2.com[qTip]
+* https://github.com/cytoscape/cytoscape.js-qtip[qTip Cytoscape.js plugin]
+* https://www.w3schools.com/w3css/[W3.CSS framework]
+
+To play, download this repo and open *index.html* in your browser.
+
+NOTE: This game was successfully tested in Chrome 57.
