@@ -1,7 +1,7 @@
 = Graph-Coloring
 Aymeric MASSE aym.masse@gmail.com
 
-Graph coloring game developed during a course at UQAC. +
+Graph coloring game using DSATUR algorithm developed during a course at UQAC. +
 This game uses those tools:
 
 * http://js.cytoscape.org/[Cystoscape.js]
